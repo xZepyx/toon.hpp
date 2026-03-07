@@ -1,8 +1,8 @@
-# toon-cpp
+# toon.hpp
 
-**toon-cpp** is a lightweight **header-only C++ library** for reading, writing, and editing **TOON (Token-Oriented Object Notation)** files.
+**toon.hpp** is a lightweight **cpp header** for reading, writing, and editing **TOON (Token-Oriented Object Notation)** files.
 
-[TOON](https://github.com/toon-format/toon) is a structured configuration format designed to be **compact, readable, and efficient**. `toon-cpp` allows C++ programs to parse `.toon` files into dynamic objects, modify them, and write them back to disk.
+[TOON](https://github.com/toon-format/toon) is a structured configuration format designed to be **compact, readable, and efficient**. `toon.hpp` allows C++ programs to parse `.toon` files into dynamic objects, modify them, and write them back to disk.
 
 ---
 
@@ -22,7 +22,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/toon-cpp
+git clone https://github.com/xZepyx/toon.hpp
 ```
 
 Add the header to your project:
