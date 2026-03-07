@@ -1,6 +1,6 @@
 # Documentation
 
-`toon-cpp` is a lightweight **header-only C++ library** for reading, writing, and editing **TOON (Token-Oriented Object Notation)** files.
+`toon.hpp` is a lightweight **cpp header** for reading, writing, and editing **TOON (Token-Oriented Object Notation)** files.
 
 It provides a dynamic value type similar to nholmann::json library and allows applications to treat `.toon` files as editable configuration data.
 
@@ -8,7 +8,7 @@ It provides a dynamic value type similar to nholmann::json library and allows ap
 
 # Installation
 
-`toon-cpp` is header-only. You only need to include the header in your project.
+`toon.hpp` is header-only. You only need to include the header in your project.
 
 Project structure example:
 
@@ -282,7 +282,7 @@ user:
 
 # Design Goals
 
-`toon-cpp` focuses on:
+`toon.hpp` focuses on:
 
 * header-only simplicity
 * minimal dependencies
@@ -303,7 +303,7 @@ Add your chosen license (MIT recommended) in the project repository.
 Example repository structure:
 
 ```
-toon-cpp/
+toon.hpp/
 ├─ include/
 │  └─ toon/
 │     └─ toon.hpp
