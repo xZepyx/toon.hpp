@@ -146,7 +146,8 @@ user:
 ---
 
 > [!NOTE]
-> Documentation: [docs/root.md](../docs/root.md) // Pretty much has all the docs let me know if I missed something
+> Documentation: [docs/root.md](../docs/root.md)
+
 > Todo: [docs/todo.md](../docs/todo.md)
 
 ---
@@ -162,5 +163,9 @@ user:
 Early development version.
 
 APIs may change as the parser and format support expand.
+
+# Contributing
+
+Feel free to contribute. It's a open-source project duh?
 
 ---
