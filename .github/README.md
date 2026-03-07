@@ -145,10 +145,11 @@ user:
 
 ---
 
-> [!NOTE]
-> Documentation: [docs/root.md](../docs/root.md)
+# Documentation
 
-> Todo: [docs/todo.md](../docs/todo.md)
+Documentation: [docs/root.md](../docs/root.md)
+
+Todo: [docs/todo.md](../docs/todo.md)
 
 ---
 
